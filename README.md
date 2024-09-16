@@ -1,8 +1,6 @@
+$\color{lime}\Large{{\textbf{3.2}}}$
 
-## 3.2 
-$\color{lime}\Large{{\textbf{Viết chương trình đọc dữ liệu khoảng cách gửi lên từ cảm biến siêu âm US-015 và hiển thị kết quả lên màn hình Serial Monoitor của máy tính}}}$
-
-<!-- ***Viết chương trình đọc dữ liệu khoảng cách gửi lên từ cảm biến siêu âm US-015 và hiển thị kết quả lên màn hình Serial Monoitor của máy tính*** -->
+***Viết chương trình đọc dữ liệu khoảng cách gửi lên từ cảm biến siêu âm US-015 và hiển thị kết quả lên màn hình Serial Monoitor của máy tính***
 
 
 #### Bước 1: Cài đặt thư viện
@@ -135,10 +133,8 @@ void loop() {
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-## 3.3
-$\color{lime}\Large{{\textbf{Viết chương trình đọc dữ liệu khoảng cách gửi lên từ cảm biến siêu âm US-015 và hiển thị kết quả lên màn hình Serial Monoitor của máy tính}}}$
-
-<!-- ***Viết chương trình đọc dữ liệu khoảng cách gửi lên từ cảm biến siêu âm US-015 và hiển thị kết quả lên màn hình Serial Monoitor của máy tính*** -->
+$\color{lime}\Large{{\textbf{3.3}}}$
+***Viết chương trình đọc dữ liệu khoảng cách gửi lên từ cảm biến siêu âm US-015 và hiển thị kết quả lên màn hình Serial Monoitor của máy tính***
 
 ### Bước 1: Kết nối dây
 Kết nối chân cảm biến siêu âm US-015 với ESP32 theo bảng sau:
